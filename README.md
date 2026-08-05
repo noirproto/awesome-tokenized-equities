@@ -26,7 +26,7 @@ Stocks, ETFs, and real-world assets are moving onchain. This list tracks the inf
 
 ### Trading
 
-- [Noir Protocol](https://noirprotocol.xyz) — CLOB matching engine for tokenized equities. Book + pool hybrid: matches against resting limit orders, routes remainder through Uniswap v4 pools on Robinhood Chain.
+- [Pool Protocol](https://poolprotocol.xyz) — CLOB matching engine for tokenized equities. Book + pool hybrid: matches against resting limit orders, routes remainder through Uniswap v4 pools on Robinhood Chain.
 - [dFlow](https://dflow.net) — Order flow infrastructure for onchain trading.
 
 ### Lending
@@ -40,12 +40,12 @@ Stocks, ETFs, and real-world assets are moving onchain. This list tracks the inf
 
 ### Settlement
 
-- [Noir Protocol Settlement](https://github.com/noirproto/settlement-contracts) — Non-custodial EVM settlement on Robinhood Chain. Sign-to-move, no custody.
+- [Pool Protocol Settlement](https://github.com/poolproto/settlement-contracts) — Non-custodial EVM settlement on Robinhood Chain. Sign-to-move, no custody.
 - [Fireblocks](https://fireblocks.com) — Institutional custody and settlement rails.
 
 ### Matching
 
-- [Noir Protocol Matching Engine](https://github.com/noirproto/matching-engine) — Open-source CLOB with Uniswap v4 pool routing. Price-time priority, off-chain matching, hybrid book + pool fills.
+- [Pool Protocol Matching Engine](https://github.com/poolproto/matching-engine) — Open-source CLOB with Uniswap v4 pool routing. Price-time priority, off-chain matching, hybrid book + pool fills.
 
 ### AMM / Liquidity
 
@@ -53,7 +53,7 @@ Stocks, ETFs, and real-world assets are moving onchain. This list tracks the inf
 
 ### Chains
 
-- [Robinhood Chain](https://robinhood.com) — EVM chain (chain ID 4663) purpose-built for financial applications. Settlement layer for Noir Protocol.
+- [Robinhood Chain](https://robinhood.com) — EVM chain (chain ID 4663) purpose-built for financial applications. Settlement layer for Pool Protocol.
 
 ### Custody
 
